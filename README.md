@@ -2,6 +2,8 @@
 
 The MagicBox module adds a zoom control to scale your Framer prototype gracefully for different devices and environments.
 
+[Read more on Medium](https://medium.com/@kasimte/magicbox-for-framer-b932427206bc)
+
 # Demo Project
 
 [Click here to see the demo project on Framer Cloud](https://framer.cloud/PQVYx)
