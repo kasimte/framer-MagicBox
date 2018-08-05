@@ -1,0 +1,11 @@
+{
+    "name": "MagicBox",
+    "description": "The MagicBox module adds a zoom control to scale your Framer prototype gracefully for different devices and environments.",
+    "author": "Yukyung Kim and Kasim Te",
+
+    "require": "{MagicBox} = require 'MagicBox'",
+    "install": "MagicBox.coffee",
+    "example": "example.coffee",
+
+    "thumb": "blank.png"
+}
