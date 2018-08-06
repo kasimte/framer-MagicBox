@@ -32,6 +32,14 @@ magicBox = new MagicBox
 magicBox.addLayer(myPrototypeLayer)
 ```
 
+Or, do it manually by adding your root prototype layer to the magic box:
+
+```
+magicBox = new MagicBox
+myRootLayer.parent = magicBox.viewer
+myRootLayer.size = magicBox.viewer.size # optional resizing
+```
+
 # License
 
 MIT
